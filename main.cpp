@@ -1,7 +1,7 @@
 #include <iostream>
 #include <memory>
-#include <dynamic.h>
-#include <static.h>
+#include "dynamic/dynamic.h"
+#include "static/static.h"
 
 int main(void)
 {
